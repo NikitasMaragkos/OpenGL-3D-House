@@ -1,5 +1,6 @@
 # OpenGL-3D-House
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
+
 ![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House.PNG?raw=true)
 
 With this code you can create a house and a moving sun that lights the whole area. The house is on top of a layer that represents the grass and on the roof of the house we have a spotlight pointing to the front of it.
@@ -21,6 +22,7 @@ For the grass we have 2 options:
 ![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House3.PNG?raw=true)
 
 #### Spotlight
+
 ![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House4.PNG?raw=true)
 
 A simple spotlight that helps us understand more efficiently the effects of light and shadow.
@@ -29,6 +31,9 @@ A simple spotlight that helps us understand more efficiently the effects of ligh
 
 For the shadow effects we have 2 options:
 * Flat: With the help of the spotlight on and by having multiple polygons as grass we can see that we can observe the squares on the floor.
-![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House4.PNG?raw=true)
+
+![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House7.PNG?raw=true)
+
 * Smooth : With the help of the spotlight on and by having multiple polygons as grass we can see that we have a realistic shadow effect without squares.
-![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House4.PNG?raw=true)
+
+![House cover image](https://github.com/NikitasMaragkos/OpenGL-3D-House/blob/main/Images/House7smooth.PNG?raw=true)
