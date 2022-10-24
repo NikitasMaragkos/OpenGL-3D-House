@@ -5,6 +5,9 @@
 
 With this code you can create a house and a moving sun that lights the whole area. The house is on top of a layer that represents the grass and on the roof of the house we have a spotlight pointing to the front of it.
 
+#### Easy Start
+Just have in the same file the Graphics1.exe and freeglut.dll to run the code.
+
 #### Sun
 
 It has been constructed with the help of a tetrahedron that with recursive subdivision it transformed into a sphere.The sun starts at (-50,0,0) and travels to (50,0,0) through a cyclic movement. It is a point light with specular and diffuse characteristics. As it travels it has a steady increasement to its power and then a steady decreasement. Double buffering has been used as well.
